@@ -20,4 +20,4 @@ A simple and clean **To-Do List** web application built using **HTML**, **CSS**,
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/todo-list.git
+  git clone https://github.com/rohitnishad06/Todo_List.git
